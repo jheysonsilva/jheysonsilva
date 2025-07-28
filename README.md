@@ -17,17 +17,17 @@ Estou iniciando minha jornada no desenvolvimento de sistemas com foco em Back-En
 
 ## 💼 Experiência Real
 
-🔧 **Técnico de Suporte (MEI)** – Lapa/PR  
+🔧 *Técnico de Suporte - Lapa/PR  
 - Manutenção, formatação e montagem de máquinas  
 - Diagnóstico de falhas em HDs, memórias, placas e fontes  
 - Instalação de sistemas, drivers, pacotes e atualizações (uso de `gpupdate`)  
 - Atendimento a residências e empresas locais
 
-🖥️ **Suporte Técnico – Grupo Services** – Curitiba/PR  
+🖥️ *Suporte Técnico – Grupo Services** – Curitiba/PR  
 - Instalação/configuração de softwares e periféricos  
 - Criação de manuais técnicos e suporte a +100 usuários
 
-📞 **Teleatendimento/Cobrança & Vendas (Adidas Sailing)**  
+📞 *Teleatendimento/Cobrança & Vendas (Adidas Sailing)**  
 - Atendimento ao cliente, metas e performance com disciplina
 
 ---
@@ -43,29 +43,35 @@ Estou iniciando minha jornada no desenvolvimento de sistemas com foco em Back-En
 
 ---
 
-## 🚀 Projetos no GitHub
+## Projetos no GitHub
 
 - 🎮 [Call_of_Duty_Visualg](https://github.com/jheysonsilva/Call_of_Duty_Visualg)  
-Simulador de lógica condicional em Visualg
+  Simulador de lógica condicional em Visualg
 
 - 🏫 [EduControl_Visualg](https://github.com/jheysonsilva/EduControl_Visualg)  
-Sistema escolar com cadastro de alunos e notas
+  Sistema escolar com cadastro de alunos e notas
+
+- 🏦 [sistema-bancario-python](https://github.com/jheysonsilva/sistema-bancario-python)  
+  Projeto em Python que simula operações bancárias com extrato, depósito e saque
+
+- 🏦 [Sistema_Bancario](https://github.com/jheysonsilva/Sistema_Bancario)  
+  Sistema bancário modularizado com múltiplas contas e validação de usuários
 
 ---
 
-## 📘 Em estudo contínuo:
+## 📘 Em estudo contínuo
 
-- 🎓 Graduação em Análise e Desenvolvimento de Sistemas (ADS) – Em andamento
-- Desenvolvimento Back-End com Python  
-- Estrutura de dados e algoritmos  
-- Fundamentos de banco de dados (SQL)  
-- Git e GitHub para colaboração  
-- Frameworks (ex: Flask, Django)  
-- Boas práticas de desenvolvimento  
+- 🎓 Graduação em **Análise e Desenvolvimento de Sistemas (ADS)** – *Em andamento*
+- 💻 Bootcamp **Santander Fullstack Developer (DIO)** – com foco em Back-End Python
+- 📚 Desenvolvimento Back-End com **Python**
+- 🧠 Estrutura de dados e algoritmos
+- 🗄️ Fundamentos de banco de dados (**SQL**)
+- 🔧 Git e GitHub para colaboração em equipe
+- 🌐 Frameworks Python: **Flask**, **Django**
+- 🧼 Boas práticas de desenvolvimento e organização de código
+- 🚀 Foco contínuo em aprimorar habilidades com **Python** como linguagem principal
 
 
----
-
-### 🙌 Obrigado por visitar meu perfil!
+## 🙌 Obrigado por visitar meu perfil!
 
 Se quiser trocar uma ideia ou tiver uma oportunidade para quem está começando com garra e vontade de aprender, estou à disposição!
